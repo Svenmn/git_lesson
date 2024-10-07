@@ -1,7 +1,9 @@
 #Headline
 
-x <- rnorm(200)
-y <- rnomr(200)
+
+x <- rnorm(500)
+y <- rnomr(500)
+
 
 #Important feature
 
